@@ -1,14 +1,12 @@
-## QTL lectures and lab for Jackson Lab Short Course on Systems Genetics
-   
+## QTL lectures and lab for R/qtl workshop at Texas A&M
+
 [Karl Broman](http://kbroman.org)
 
-This repository contains the source material for my QTL mapping
-lectures and lab at the (fall) annual
-[Short Course on Systems Genetics](http://courses.jax.org/2014/systems-genetics.html)
-at the [Jackson Lab](http://www.jax.org).
+This repository contains the source material for an R/qtl workshop I
+gave at Texas A&M on 2 Sep 2015.
 
-Current and past versions of PDFs can be found on my website,
-[here](http://kbroman.org/pages/teaching.html).
+PDFs can be found on my website,
+[here](http://kbroman.org/pages/teaching.html) (search for "Texas").
 
 ---
 
